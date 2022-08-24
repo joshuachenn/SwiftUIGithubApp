@@ -1,0 +1,6 @@
+{
+  "055655c986c1c5fc596c830d3cc61264585ebd4a15e6d91ce67c72da95a556af": {
+    "name": "LoginName",
+    "source": "query LoginName {\n  viewer {\n    __typename\n    login\n  }\n}"
+  }
+}
